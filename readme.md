@@ -1,4 +1,4 @@
-# Scentific Computing Assignment
+# Scientific Computing Assignment
 
 This repo contains the four parts for the first Scentific Computing Assignment, which required the following:
 
